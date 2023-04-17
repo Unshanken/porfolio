@@ -166,7 +166,7 @@ nav img {
   gap: 2.5rem;
 }
 
-.nav-menu.is-active {
+.nav-menu.active {
   box-shadow: 0 1rem 5rem 0 #0000004d;
   right: 0;
   margin: 0;
